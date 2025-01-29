@@ -1,7 +1,7 @@
 Project Summary: HydraLytica Dashboard – Telematics Application for Data Analysis
 
 Objective:
-A web-based portal system, the HydraLytica Dashboard, displays telematics data for company XXX Production department. The platform is designed to streamline data access and eliminate the need for direct interaction with the underlying database (MySQL), ensuring a secure, user-friendly interface for retrieving telematics data from the company's database.
+A web-based portal system, the HydraLytica Dashboard, displays telematics data for company XXX Production department. The platform is designed to streamline data access and eliminate the need for direct interaction with the underlying database (MariaDB), ensuring a secure, user-friendly interface for retrieving telematics data from the company's database.
 
 Key Features and Functionalities:
 
